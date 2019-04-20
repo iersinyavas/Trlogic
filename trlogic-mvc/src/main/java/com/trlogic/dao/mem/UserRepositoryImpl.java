@@ -8,7 +8,7 @@ import javax.annotation.PostConstruct;
 import org.springframework.stereotype.Repository;
 
 import com.trlogic.dao.UserRepository;
-import com.trlogic.model.User;
+import com.trlogic.model.entity.User;
 
 @Repository
 public class UserRepositoryImpl implements UserRepository {
