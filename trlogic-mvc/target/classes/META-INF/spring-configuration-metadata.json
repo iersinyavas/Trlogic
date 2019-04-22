@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.trlogic.TrlogicMVCProperties",
+      "name": "trlogicmvc",
+      "type": "com.trlogic.TrlogicMVCProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.trlogic.TrlogicMVCProperties",
+      "name": "trlogicmvc.aktif",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
